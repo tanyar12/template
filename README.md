@@ -1,5 +1,3 @@
-# Basic template for iDP report
+# Flow-State Interim Report
 
-## Tools used
-- Grid.js for generating table
-- Shoelace for custom web-components
+Website version of the CDE4301 interim report. Open `index.html` or publish using GitHub Pages (Settings → Pages → Deploy from a branch → main / root).
